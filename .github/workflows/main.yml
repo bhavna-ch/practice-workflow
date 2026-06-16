@@ -10,4 +10,4 @@ jobs:
 
     steps:
       - name: practice
-      run: echo "practice by me"
+        run: echo "practice by me"
